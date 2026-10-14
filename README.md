@@ -1,19 +1,21 @@
 # Hi, I am Garfield Greg Lim III
 
-Applied AI Engineer in Cebu, Philippines. I turn messy operational problems into production agent systems.
+Applied AI Engineer in Cebu, Philippines, open to remote. I turn messy operations into working AI systems.
 
-## What I build
-
-I build LLM agents, RAG, MCP servers, and full-stack products. I lead a team of eight developers across four products.
+I build LLM agents, RAG systems, MCP servers, and full-stack products. As Technical Director I lead eight developers across four products.
 
 ## Projects
 
-| Project | What it is | Status |
+| Project | What it is | Links |
 | --- | --- | --- |
-| PaperLab | Type a sentence and watch it travel through the Transformer from Attention Is All You Need. | Coming soon |
-| Online Paluwagan | A demo rotating-savings group with a reconciling ledger, fair payout rotation, and AI-drafted payment reminders. | Coming soon |
-| Living Mindmap (MCP) | A local-first visual knowledge graph that people edit by hand and AI agents extend through 12 MCP tools, with duplicate protection and provenance on every AI-added node. | Coming soon |
-| Slop Editorial | Editorial project. Details coming soon. | Coming soon |
+| PaperLab | Type a sentence and watch it travel through one layer of the Transformer from Attention Is All You Need. | [Live demo](https://monsieurgregorio2001-coder.github.io/paperlab/), [Code](https://github.com/monsieurgregorio2001-coder/paperlab) |
+| Online Paluwagan | A demo rotating-savings group with a reconciling ledger, fair payout rotation, and AI-drafted payment reminders a human approves. | [Live demo](https://monsieurgregorio2001-coder.github.io/paluwagan/), [Code](https://github.com/monsieurgregorio2001-coder/paluwagan) |
+| Living Mindmap (MCP) | A local-first visual knowledge graph that people edit by hand and AI agents extend through 12 MCP tools. | [Run locally](https://github.com/monsieurgregorio2001-coder/mindmap-mcp#quick-start), [Code](https://github.com/monsieurgregorio2001-coder/mindmap-mcp) |
+| Slop Editorial | An AI-native editorial studio toolkit with a multi-provider image pipeline, spend caps, approval gates, and provenance. | Coming soon |
+
+## How I work
+
+Spec first, measure everything, and let humans approve what matters.
 
 ## Stack
 

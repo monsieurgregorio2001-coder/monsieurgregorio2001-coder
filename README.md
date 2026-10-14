@@ -11,7 +11,7 @@ I build LLM agents, RAG systems, MCP servers, and full-stack products. As Techni
 | PaperLab | Type a sentence and watch it travel through one layer of the Transformer from Attention Is All You Need. | [Live demo](https://monsieurgregorio2001-coder.github.io/paperlab/), [Code](https://github.com/monsieurgregorio2001-coder/paperlab) |
 | Online Paluwagan | A demo rotating-savings group with a reconciling ledger, fair payout rotation, and AI-drafted payment reminders a human approves. | [Live demo](https://monsieurgregorio2001-coder.github.io/paluwagan/), [Code](https://github.com/monsieurgregorio2001-coder/paluwagan) |
 | Living Mindmap (MCP) | A local-first visual knowledge graph that people edit by hand and AI agents extend through 12 MCP tools. | [Run locally](https://github.com/monsieurgregorio2001-coder/mindmap-mcp#quick-start), [Code](https://github.com/monsieurgregorio2001-coder/mindmap-mcp) |
-| Slop Editorial | An AI-native editorial studio toolkit with a multi-provider image pipeline, spend caps, approval gates, and provenance. | Coming soon |
+| Slop Editorial | A satirical AI publication built like software, backed by a spend-capped generation pipeline with approval gates and provenance. | [Live demo](https://monsieurgregorio2001-coder.github.io/slop-editorial/), [Code](https://github.com/monsieurgregorio2001-coder/slop-editorial) |
 
 ## How I work
 

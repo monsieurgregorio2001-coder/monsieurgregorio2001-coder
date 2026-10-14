@@ -27,4 +27,4 @@ I build LLM agents, RAG, MCP servers, and full-stack products. I lead a team of 
 
 - Portfolio: https://monsieurgregorio2001-coder.github.io/
 - LinkedIn: https://www.linkedin.com/in/garfield-lim-8239242a9
-- Email: monsieurgregorio2001@gmail.com
+- Email: lim.ggreg@outlook.com

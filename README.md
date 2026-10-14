@@ -12,7 +12,7 @@ I build LLM agents, RAG, MCP servers, and full-stack products. I lead a team of 
 | --- | --- | --- |
 | PaperLab | Type a sentence and watch it travel through the Transformer from Attention Is All You Need. | Coming soon |
 | Online Paluwagan | A demo rotating-savings group with a reconciling ledger, fair payout rotation, and AI-drafted payment reminders. | Coming soon |
-| Mindmap MCP | An MCP server that lets Claude read and build mind maps as tools. | Coming soon |
+| Living Mindmap (MCP) | A local-first visual knowledge graph that people edit by hand and AI agents extend through 12 MCP tools, with duplicate protection and provenance on every AI-added node. | Coming soon |
 | Slop Editorial | Editorial project. Details coming soon. | Coming soon |
 
 ## Stack
